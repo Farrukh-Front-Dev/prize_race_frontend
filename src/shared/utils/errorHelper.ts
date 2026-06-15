@@ -6,14 +6,20 @@ export function handleMutationError(err: unknown) {
   
   // Cast safety checking
   const apiErr = err as ApiError;
+  const errMsg = err instanceof Error ? err.message : String(err);
+  
+  // Ignore 404 status codes and text messages containing 404 or connection failures
+  if (
+    (apiErr && apiErr.status === 404) || 
+    errMsg.includes("404") || 
+    errMsg.includes("status code 404")
+  ) {
+    return;
+  }
+
   if (apiErr && typeof apiErr.status === "number") {
     const status = apiErr.status;
     const detail = apiErr.detail || "An error occurred.";
-
-    if (status === 404) {
-      // Ignore 404 errors temporarily since backend operations are under configuration/unavailable
-      return;
-    }
 
     if (status === 400 || status === 409) {
       // already joined, wrong status, already completed
@@ -30,6 +36,10 @@ export function handleMutationError(err: unknown) {
       toastStore.addToast(detail, "error");
     }
   } else {
+    // Avoid showing transient network/404 messages as toasts in local/dev preview
+    if (errMsg.includes("Network Error") || errMsg.includes("404")) {
+      return;
+    }
     toastStore.addToast(
       err instanceof Error ? err.message : "An unexpected network error occurred.",
       "error"

@@ -62,6 +62,18 @@ export function AppShell() {
 
       {/* Main Content Pane */}
       <main className={`flex-1 px-4 ${page === "home" ? "pt-4" : "pt-6"} pb-32`}>
+        {/* Elegant Under Development Notification Banner */}
+        <div className="mb-4 p-3 rounded-2xl bg-amber-500/8 border border-amber-500/15 flex items-center gap-2.5 text-amber-700/90 shadow-sm animate-in fade-in slide-in-from-top-2 duration-300">
+          <span className="text-xs shrink-0 select-none">🛠️</span>
+          <p className="font-display text-[10px] font-black uppercase tracking-wider leading-none">
+            {language === "uz" 
+              ? "Ilova hali ishlanmoqda" 
+              : language === "ru" 
+              ? "Приложение еще в разработке" 
+              : "App still under development"}
+          </p>
+        </div>
+
         <AppRouter />
       </main>
 
