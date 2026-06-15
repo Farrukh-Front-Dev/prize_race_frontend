@@ -1,0 +1,21 @@
+{
+  "welcome": "С возвращением",
+  "initializing": "Инициализация сессии гонщика...",
+  "wallet_status": "Кошелек подключен",
+  "connect_ton": "Подключить TON",
+  "your_balance": "ВАШ БАЛАНС",
+  "active_sprints": "АКТИВНЫЕ СПРИНТЫ",
+  "my_wallet": "Мой кошелек",
+  "loading_races": "Загрузка гонок...",
+  "you_are_organiser": "Вы организатор",
+  "progress_timeline": "Шкала прогресса",
+  "join_event": "Участвовать",
+  "finish_deposit": "Депозит и запуск",
+  "awaiting_deposit": "Ожидание депозита",
+  "event_finished": "Спринт завершен",
+  "see_winners": "Победители",
+  "no_sprints": "Спринты не найдены",
+  "no_sprints_desc": "В настоящее время активных спринтов или призовых пулов нет. Создайте свой собственный!",
+  "create_first": "Создать первый спринт",
+  "default_description": "Выполняйте социальные задания, чтобы выиграть"
+}

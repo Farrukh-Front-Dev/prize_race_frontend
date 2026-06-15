@@ -1,0 +1,25 @@
+{
+  "title": "Your Racer Profile",
+  "back_track": "Back to Track",
+  "wallet_address": "TON Wallet Address",
+  "racer_id": "Racer ID",
+  "account_status": "Account Status",
+  "verified_racer": "Verified Racer",
+  "not_connected": "Not Connected",
+  "connect_wallet_btn": "Connect TON Wallet",
+  "disconnect_wallet": "Disconnect Wallet",
+  "available_balance": "Available Balance",
+  "actions": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "add_funds_desc": "Add TON funds to launch rewards pool sprints or pay gas."
+  },
+  "tx_history": "Transaction History",
+  "no_tx": "No transactions captured yet.",
+  "organizer_analytics": "Organizer Analytics",
+  "draft_sprints": "Draft Sprints",
+  "active_sprints": "Active Sprints",
+  "completed_sprints": "Completed Sprints",
+  "language_preference": "Language Preference",
+  "wallet_connected_toast": "TON Wallet successfully connected!"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Sprint chempionlari",
+  "back_track": "Ortga qaytish",
+  "congrats_heading": "Sprint yakunlandi",
+  "congrats_subtitle": "Mukofotlar muvaffaqiyatli blokdan chiqarildi va eng yuqori natijaga erishgan poygachilar tomonidan olindi. PrizeRace-ning keyingi sprintlariga qo'shiling!",
+  "prize_pool": "Mukofot jamg'armasi",
+  "winners_count": "G'oliblar soni",
+  "champions_podium": "CHEMPIONLAR SHOHSUPASI",
+  "points": "ball",
+  "empty_winners": "Ushbu musobaqa uchun hali chempionlar hisoblanmagan.",
+  "prize_won": "{amount} TON yutib olindi"
+}

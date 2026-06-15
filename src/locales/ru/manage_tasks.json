@@ -1,0 +1,23 @@
+{
+  "title": "Добавление задач гонки",
+  "back_details": "Назад к деталям",
+  "restriction_note": "Добавление миссий разрешено только для спринтов, находящихся в статусе ЧЕРНОВИК.",
+  "active_target": "Выбранная цель",
+  "forms": {
+    "title_label": "Название миссии",
+    "title_placeholder": "например: Подписаться на Telegram-канал",
+    "xp_reward_label": "Награда (1..10000 XP)",
+    "verification_channel_label": "Способ верификации",
+    "channel_check_tab": "Проверка подписки",
+    "manual_check_tab": "Ручная проверка",
+    "tg_username_label": "Адрес Telegram канала (username)",
+    "tg_username_placeholder": "например: @prizerace_ru",
+    "instructions_label": "Краткие инструкции и правила",
+    "instructions_placeholder": "например: Вступите в официальный новостной канал заезда и не выходите",
+    "add_task_btn": "Добавить задачу к спринту"
+  },
+  "added_tasks_header": "Текущий список задач",
+  "loading_tasks": "Получение списка миссий...",
+  "no_tasks": "В этом заезде еще нет ни одного квеста. Заполните форму выше для добавления!",
+  "points": "XP"
+}

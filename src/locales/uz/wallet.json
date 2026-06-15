@@ -1,0 +1,25 @@
+{
+  "title": "Poygachi profili",
+  "back_track": "Ortga qaytish",
+  "wallet_address": "TON hamyon manzili",
+  "racer_id": "Poygachi ID-si",
+  "account_status": "Hisob holati",
+  "verified_racer": "Tasdiqlangan poygachi",
+  "not_connected": "Ulanmagan",
+  "connect_wallet_btn": "TON hamyonni ulash",
+  "disconnect_wallet": "Hamyonni uzish",
+  "available_balance": "Mavjud balans",
+  "actions": {
+    "deposit": "Depozit",
+    "withdraw": "Yechib olish",
+    "add_funds_desc": "Mukofot jamg'armasi sprintini ochish yoki tranzaksiya to'lovlari uchun TON kiriting."
+  },
+  "tx_history": "Tranzaksiyalar tarixi",
+  "no_tx": "Hozircha hech qanday o'tkazma mavjud emas.",
+  "organizer_analytics": "Tashkilotchi tahlillari",
+  "draft_sprints": "Qoralama sprintlar",
+  "active_sprints": "Faol sprintlar",
+  "completed_sprints": "Yakunlangan sprintlar",
+  "language_preference": "Tanlangan til",
+  "wallet_connected_toast": "TON hamyoningiz muvaffaqiyatli ulandi!"
+}

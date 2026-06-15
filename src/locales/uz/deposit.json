@@ -1,0 +1,19 @@
+{
+  "title": "Mukofotni bloklash",
+  "back_identity": "Qoralamaga qaytish",
+  "secure_vault": "Xavfsiz mablag' ombori",
+  "explanation": "PrizeRace sprintini yakunlash va faollashtirish uchun uning mukofot jamg'armasini aqlli shartnomaning xavfsiz omboriga kiritishingiz lozim. Ushbu mablag'lar musobaqa yakunlangach, avtomatik ravishda g'oliblar o'rtasida taqsimlanadi.",
+  "sprint_title": "Sprint",
+  "target_winners": "G'oliblar",
+  "top_winners": "Top {count} g'oliblar",
+  "deposit_address": "Aqlli shartnoma manzili",
+  "required_amount": "Kerakli depozit miqdori",
+  "tap_copy": "Nusxalash uchun bosing",
+  "payment_indicator": "Hozirgi holat:",
+  "awaiting_payment": "Depozit tushishi kutilmoqda...",
+  "verify_btn": "Xavfsiz depozitni tasdiqlash",
+  "verified_success": "Depozit muvaffaqiyatli tekshirildi! Sizning sprintiz hozir FAOL holatda va barcha poygachilarga ko'rsatilmoqda.",
+  "warning_title": "Xavfsizlik bo'yicha eslatma",
+  "warning_text": "Markazlashtirilgan birjalardan (CEX) mablag' yubormang. Faqat Tonkeeper, Tonhub yoki Telegram Wallet kabi shaxsiy hamyonlardan foydalaning. Yuborilgan mablag'larni sprint yopilguncha qaytarib olib bo'lmaydi.",
+  "copy_toast": "Nusxalandi!"
+}

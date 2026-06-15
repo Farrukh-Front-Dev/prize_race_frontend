@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Custom Color Systems mapped from designs */
+  --color-primary: #2563eb;
+  --color-primary-container: #2563eb;
+  --color-primary-fixed: #dbe1ff;
+  --color-primary-fixed-dim: #b4c5ff;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f3f3fe;
+  --color-surface-container: #ededf9;
+  --color-surface-container-high: #e7e7f3;
+  --color-surface-container-highest: #e1e2ed;
+  --color-on-surface: #191b23;
+  --color-on-surface-variant: #434655;
+  --color-inverse-surface: #2e3039;
+  --color-inverse-on-surface: #f0f0fb;
+  --color-outline: #737686;
+  --color-outline-variant: #c3c6d7;
+  --color-secondary-container: #fea619;
+  --color-on-secondary-container: #684000;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+  --color-error: #ba1a1a;
+  --color-on-error: #ffffff;
+}
+
+@utility glass-card {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+@utility spinner {
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top-color: #fff;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

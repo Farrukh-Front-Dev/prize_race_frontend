@@ -1,0 +1,23 @@
+{
+  "title": "Sprint vazifalarini sozlash",
+  "back_details": "Tafsilotlarga qaytish",
+  "restriction_note": "Xavfsizlik nuqtai nazaridan yangi vazifalar qo'shish faqat QORALAMA bosqichida mavjud.",
+  "active_target": "Faol nishon",
+  "forms": {
+    "title_label": "Vazifa nomi",
+    "title_placeholder": "masalan: Kanalga a'zo bo'lish",
+    "xp_reward_label": "XP mukofoti (1..10000)",
+    "verification_channel_label": "Tekshirish kanali",
+    "channel_check_tab": "Kanalni tekshirish",
+    "manual_check_tab": "Qo'lda tekshirish",
+    "tg_username_label": "Telegram kanal sarlavhasi (username)",
+    "tg_username_placeholder": "masalan: @prizerace_uz",
+    "instructions_label": "Ko'rsatmalar & Talablar",
+    "instructions_placeholder": "masalan: Kanaldan chiqib ketmasdan obunani saqlang va ballga ega bo'ling",
+    "add_task_btn": "Vazifani qo'shish"
+  },
+  "added_tasks_header": "Kiritilgan vazifalar",
+  "loading_tasks": "Ro'yxatdan o'tgan vazifalar yuklanmoqda...",
+  "no_tasks": "Hozircha ushbu sprintga birorta ham vazifa qo'shilmagan. Yuqoridagi formadan foydalanib qo'shing!",
+  "points": "XP"
+}

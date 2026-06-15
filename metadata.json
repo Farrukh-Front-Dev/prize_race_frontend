@@ -1,0 +1,6 @@
+{
+  "name": "PrizeRace",
+  "description": "Premium TON rewards and social tasks leaderboard for the TG Mini App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

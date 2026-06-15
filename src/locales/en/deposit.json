@@ -1,0 +1,19 @@
+{
+  "title": "Lock Prize Pool Pool",
+  "back_identity": "Back to Sprint Identity",
+  "secure_vault": "Prize Security Vault",
+  "explanation": "To finalize and activate your PrizeRace sprint, you must lock the total prize pool amount in the smart-contract secure vault. These funds will be automatically distributed to the top finishers upon sprint completion.",
+  "sprint_title": "Sprint",
+  "target_winners": "Winners",
+  "top_winners": "Top {count} Winners",
+  "deposit_address": "Smart Contract Deposit Address",
+  "required_amount": "Required Deposit Amount",
+  "tap_copy": "Tap to copy",
+  "payment_indicator": "Live payment flow indicator:",
+  "awaiting_payment": "Awaiting Deposit Confirmation...",
+  "verify_btn": "Verify Secured Deposit",
+  "verified_success": "Deposit successfully verified! Your sprint is now LIVE and broadcasting to users.",
+  "warning_title": "Security Note",
+  "warning_text": "Do not send funds from central exchanges. Only use non-custodial wallets like Tonkeeper, Tonhub, or Telegram Wallet. Once sent, funds cannot be recalled until the sprint concludes.",
+  "copy_toast": "Copied to clipboard!"
+}

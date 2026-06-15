@@ -1,0 +1,31 @@
+{
+  "title": "Sprint yaratish",
+  "back_track": "Ortga qaytish",
+  "steps": {
+    "draft": "QORALAMA",
+    "pending": "KUTILMOQDA",
+    "active": "FAOL"
+  },
+  "live_preview": "KO'RINISH PREVYUSI",
+  "starts_tomorrow": "Ertaga boshlanadi",
+  "prize_allocation": "Mukofot taqsimoti",
+  "winners_badge": "Top {count} g'oliblar",
+  "forms": {
+    "identity_title": "Sprint ma'lumotlari",
+    "title_label": "Sprint sarlavhasi",
+    "title_placeholder": "masalan: O'zbekiston TON Sprints",
+    "desc_label": "Tavsifi",
+    "desc_placeholder": "Qoidalar, bosqichlar va g'oliblik koeffitsientlarini kiriting...",
+    "rewards_title": "Mukofotlar & Sovrinlar",
+    "pool_label": "Umumiy mukofot jamg'armasi (TON)",
+    "winners_label": "Top g'oliblar soni",
+    "reward_dist_preview": "Kutilayotgan mukofot taqsimoti",
+    "timeline_title": "Sprint vaqt oralig'i",
+    "start_label": "Boshlanish sanasi",
+    "end_label": "Tugash sanasi",
+    "save_draft": "Sprint qoralamasini saqlash",
+    "lock_deposit": "Depozit qilish & Boshlash"
+  },
+  "toast_success_draft": "Sprint qoralamasi muvaffaqiyatli saqlandi!",
+  "toast_success_create": "Sprint muvaffaqiyatli yaratildi!"
+}

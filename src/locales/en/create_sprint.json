@@ -1,0 +1,31 @@
+{
+  "title": "Create Sprint",
+  "back_track": "Back to Race Track",
+  "steps": {
+    "draft": "DRAFT",
+    "pending": "PENDING",
+    "active": "ACTIVE"
+  },
+  "live_preview": "LIVE PREVIEW",
+  "starts_tomorrow": "Starts tomorrow",
+  "prize_allocation": "Prize Allocation",
+  "winners_badge": "Top {count} Winners",
+  "forms": {
+    "identity_title": "Sprint Identity",
+    "title_label": "Sprint Title",
+    "title_placeholder": "e.g. Summer TON Sprint",
+    "desc_label": "Description",
+    "desc_placeholder": "Provide rules, steps, and reward ratios...",
+    "rewards_title": "Prizes & Rewards",
+    "pool_label": "Total Reward Pool (TON)",
+    "winners_label": "Top Winners Count",
+    "reward_dist_preview": "Expected Reward Distribution Preview",
+    "timeline_title": "Sprint Timeline",
+    "start_label": "Start Date",
+    "end_label": "End Date",
+    "save_draft": "Save Sprint Draft",
+    "lock_deposit": "Lock Deposit & Broadcast"
+  },
+  "toast_success_draft": "Sprint draft saved successfully!",
+  "toast_success_create": "Sprint initialized successfully!"
+}

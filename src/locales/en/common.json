@@ -1,0 +1,20 @@
+{
+  "tabs": {
+    "home": "Home",
+    "races": "Races+",
+    "board": "Board",
+    "profile": "Profile"
+  },
+  "buttons": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "loading": "Please wait..."
+  },
+  "languages": {
+    "select": "Language",
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English"
+  }
+}

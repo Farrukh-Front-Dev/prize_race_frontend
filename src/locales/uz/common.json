@@ -1,0 +1,20 @@
+{
+  "tabs": {
+    "home": "Bosh sahifa",
+    "races": "Sprintlar+",
+    "board": "Reyting",
+    "profile": "Profil"
+  },
+  "buttons": {
+    "back": "Orqaga",
+    "cancel": "Bekor qilish",
+    "confirm": "Tasdiqlash",
+    "loading": "Iltimos, kuting..."
+  },
+  "languages": {
+    "select": "Til",
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English"
+  }
+}

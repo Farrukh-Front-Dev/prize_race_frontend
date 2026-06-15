@@ -1,0 +1,23 @@
+{
+  "title": "Configure Sprints Tasks",
+  "back_details": "Back to Sprint Details",
+  "restriction_note": "Task creation is restricted to the DRAFT design stage for security verification.",
+  "active_target": "Active Target",
+  "forms": {
+    "title_label": "Task Title",
+    "title_placeholder": "e.g. Subscribe to channel",
+    "xp_reward_label": "XP Reward (1..10000)",
+    "verification_channel_label": "Verification Channel",
+    "channel_check_tab": "Channel Check",
+    "manual_check_tab": "Manual / Post Check",
+    "tg_username_label": "Telegram Public Username",
+    "tg_username_placeholder": "e.g. @prizerace",
+    "instructions_label": "Instructions & Requirements",
+    "instructions_placeholder": "e.g. Subscribe to stay updated and claim reward",
+    "add_task_btn": "Add Task to Pool"
+  },
+  "added_tasks_header": "Added Sprint Tasks",
+  "loading_tasks": "Loading registered tasks...",
+  "no_tasks": "No missions registered for this sprint yet. Use the card form to add some!",
+  "points": "XP"
+}

@@ -1,0 +1,21 @@
+{
+  "welcome": "Xush kelibsiz",
+  "initializing": "Poygachi seansi yuklanmoqda...",
+  "wallet_status": "Hamyon ulandi",
+  "connect_ton": "TON ulash",
+  "your_balance": "SIZNING BALANSINGIZ",
+  "active_sprints": "FAOL SPRINTLAR",
+  "my_wallet": "Mening hamyonim",
+  "loading_races": "Musobaqalar yuklanmoqda...",
+  "you_are_organiser": "Siz tashkilotchisiz",
+  "progress_timeline": "Vaqt jadvali",
+  "join_event": "Qo'shilish",
+  "finish_deposit": "Depozit qilish va boshlash",
+  "awaiting_deposit": "Depozit kutilmoqda",
+  "event_finished": "Sprint yakunlandi",
+  "see_winners": "G'oliblarni ko'rish",
+  "no_sprints": "Sprintlar topilmadi",
+  "no_sprints_desc": "Hozircha birorta faol sprint yoki mukofot jamg'armasi mavjud emas. O'zingiznikini yarating!",
+  "create_first": "Birinchi sprintni ochish",
+  "default_description": "Yutish uchun ijtimoiy vazifalarni bajaring"
+}

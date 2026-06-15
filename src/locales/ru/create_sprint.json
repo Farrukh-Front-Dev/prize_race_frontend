@@ -1,0 +1,31 @@
+{
+  "title": "Создание спринта",
+  "back_track": "Назад ко всем гонкам",
+  "steps": {
+    "draft": "ЧЕРНОВИК",
+    "pending": "ОЖИДАНИЕ",
+    "active": "АКТИВЕН"
+  },
+  "live_preview": "ЖИВОЙ ПРЕДПРОСМОТР",
+  "starts_tomorrow": "Начинается завтра",
+  "prize_allocation": "Разделение призовых",
+  "winners_badge": "Топ {count} победителей",
+  "forms": {
+    "identity_title": "Анкета спринта",
+    "title_label": "Название спринта",
+    "title_placeholder": "например: Летний TON спринт",
+    "desc_label": "Описание и правила",
+    "desc_placeholder": "Укажите правила прохождения, распределение наград...",
+    "rewards_title": "Распределение призов",
+    "pool_label": "Общий фонд (TON)",
+    "winners_label": "Количество победителей",
+    "reward_dist_preview": "Ориентировочное разделение пула",
+    "timeline_title": "Сроки проведения гонки",
+    "start_label": "Дата начала",
+    "end_label": "Дата окончания",
+    "save_draft": "Сохранить черновик",
+    "lock_deposit": "Провести транзакцию депозита"
+  },
+  "toast_success_draft": "Черновик спринта успешно сохранен!",
+  "toast_success_create": "Спринт успешно подготовлен к работе!"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Racer Leaderboard",
+  "back_track": "Back to Track",
+  "points": "Pts",
+  "rank": "Rank",
+  "player": "Player",
+  "score": "Score",
+  "empty_leaderboard": "No competitors have joined this race yet. Be the first!",
+  "current_position_floating": "Your Current Position",
+  "loading_leaderboard": "Loading leaderboard details..."
+}

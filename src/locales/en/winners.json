@@ -1,0 +1,12 @@
+{
+  "title": "Sprint Champions",
+  "back_track": "Back to Track",
+  "congrats_heading": "Sprint Concluded",
+  "congrats_subtitle": "Rewards successfully locked and claimed by the top-performing racers. Join the next sprint of PrizeRace!",
+  "prize_pool": "Prize Pool",
+  "winners_count": "Winners Count",
+  "champions_podium": "CHAMPIONS PODIUM",
+  "points": "Pts",
+  "empty_winners": "No champions calculated for this event yet.",
+  "prize_won": "Won {amount} TON"
+}

@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome back",
+  "initializing": "Initializing racer session...",
+  "wallet_status": "Wallet Connected",
+  "connect_ton": "Connect TON",
+  "your_balance": "YOUR BALANCE",
+  "active_sprints": "ACTIVE SPRINTS",
+  "my_wallet": "My Wallet",
+  "loading_races": "Loading races...",
+  "you_are_organiser": "You are the organiser",
+  "progress_timeline": "Progress Timeline",
+  "join_event": "Join Event",
+  "finish_deposit": "Finish Deposit & Launch",
+  "awaiting_deposit": "Awaiting Deposit Launch",
+  "event_finished": "Event finished",
+  "see_winners": "See winners",
+  "no_sprints": "No Sprints Found",
+  "no_sprints_desc": "There are currently no sprints, contests, or reward pools initialized. Create your own!",
+  "create_first": "Create First Sprint",
+  "default_description": "Complete social tasks to win"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Профиль гонщика",
+  "back_track": "Назад",
+  "wallet_address": "Адрес TON кошелька",
+  "racer_id": "ID гонщика",
+  "account_status": "Статус аккаунта",
+  "verified_racer": "Подтвержденный гонщик",
+  "not_connected": "Не подключен",
+  "connect_wallet_btn": "Подключить TON кошелек",
+  "disconnect_wallet": "Отключить кошелек",
+  "available_balance": "Доступный баланс",
+  "actions": {
+    "deposit": "Депозит",
+    "withdraw": "Вывести",
+    "add_funds_desc": "Пополните баланс TON для запуска призовых пулов или оплаты комиссий сети."
+  },
+  "tx_history": "История транзакций",
+  "no_tx": "Транзакции пока отсутствуют.",
+  "organizer_analytics": "Аналитика организатора",
+  "draft_sprints": "Черновики",
+  "active_sprints": "Активные",
+  "completed_sprints": "Завершенные",
+  "language_preference": "Язык интерфейса",
+  "wallet_connected_toast": "TON кошелек успешно подключен!"
+}
