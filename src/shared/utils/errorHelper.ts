@@ -10,6 +10,11 @@ export function handleMutationError(err: unknown) {
     const status = apiErr.status;
     const detail = apiErr.detail || "An error occurred.";
 
+    if (status === 404) {
+      // Ignore 404 errors temporarily since backend operations are under configuration/unavailable
+      return;
+    }
+
     if (status === 400 || status === 409) {
       // already joined, wrong status, already completed
       toastStore.addToast(detail, "info");

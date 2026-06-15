@@ -82,7 +82,7 @@ export function LeaderboardPage() {
         <div
           className={`flex items-center justify-between p-3.5 rounded-2xl border transition-all ${
             isMe
-              ? "bg-primary text-white border-primary shadow-md"
+              ? "bg-gradient-to-r from-blue-600 to-indigo-600 text-white border-blue-500 shadow-md animate-pulse/10"
               : "bg-white border-outline-variant/15 hover:border-primary/30"
           }`}
         >
